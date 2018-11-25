@@ -1,0 +1,31 @@
+body 
+{
+	background-color:tomato;
+}
+iframe
+{
+	width: 100%;
+	height: 250px;
+	border:10px solid violet;
+	border-radius: 25px;
+}
+#hh1 
+{
+	text-transform: uppercase;
+	font-size:200%;
+  	color:blue;
+  	text-shadow: 6px 6px 12px yellow;
+}
+#hh2
+{
+	text-decoration: underline;
+	padding: 10px;
+	font-family:verdana;
+	font-size:250%;
+	text-align:center;
+	border:8px solid DodgerBlue;
+	color:violet;
+	background-color:yellow;
+	text-shadow: 6px 6px 12px black;
+	border-radius: 25px;
+}
